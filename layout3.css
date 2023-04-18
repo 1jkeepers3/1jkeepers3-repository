@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+header, footer{
+    height: 100px;
+    border: 3px solid green;
+    clear: both;
+}
+section.basketball{
+    height: 400px;
+    border: 3px solid green;
+    width: 20%;
+    float: left;
+}
+section.hockey{
+    height: 400px;
+    border: 3px solid green;
+    width: 40%;
+    float: left;
+}
+section.baseball{
+    height: 400px;
+    border: 3px solid green;
+    width: 20%;
+    float: left;
+}

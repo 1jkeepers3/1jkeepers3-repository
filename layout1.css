@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+
+}
+header, footer{
+    height: 100px;
+    border: 3px solid black;
+    clear: both;
+}
+section.soccer{
+    height: 200px;
+    width: 33.3333%;
+    border: 3px solid black;
+    float: left;
+}
+section{
+    height: 300px;
+    width: 50%;
+    border: 3px solid black;
+    float: left;
+}
