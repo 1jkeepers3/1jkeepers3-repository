@@ -1,1 +1,1 @@
-Welcome to my repository! I'm currently in a software engineering bootcamp where I am learning to create full stack web applications. The name of the course is 100Devs. After completing the course I will be looking to obtain a job as a software engineer. 
+Welcome to my repository!
